@@ -179,7 +179,7 @@ DATABRICKS_MODEL_ENDPOINT=databricks-claude-sonnet-5
 USE_LLM=true
 
 # Jira
-JIRA_BASE_URL=https://finthrive.atlassian.net
+JIRA_BASE_URL=https://your-org.atlassian.net
 JIRA_USER_EMAIL=your@email.com
 JIRA_API_TOKEN=                        # Atlassian account → Security → API tokens
 JIRA_ISSUE_KEY=DYN-123                 # The specific story the agent should work on
